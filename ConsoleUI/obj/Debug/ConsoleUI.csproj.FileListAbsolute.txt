@@ -1,0 +1,7 @@
+C:\Users\Evgeniy\source\repos\Calculator\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Evgeniy\source\repos\Calculator\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Evgeniy\source\repos\Calculator\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Evgeniy\source\repos\Calculator\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\source\repos\Calculator\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Evgeniy\source\repos\Calculator\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Evgeniy\source\repos\Calculator\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
